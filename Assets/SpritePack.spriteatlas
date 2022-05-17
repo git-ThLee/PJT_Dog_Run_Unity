@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpritePack
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 128
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 12fe513957bbf0748876d6fb500b3119, type: 3}
+    - {fileID: 102900000, guid: 227311003fce39e4b81ecc02d091eab7, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 55c38370a8cd6314a8626c513e426605, type: 3}
+  - {fileID: 21300000, guid: 9f873aa0f68b7a7459a4fb7aad786634, type: 3}
+  - {fileID: -4709456396536258026, guid: 51c81e11cf1b83741a6d4debdf26562c, type: 3}
+  - {fileID: -4529042392078601758, guid: 51c81e11cf1b83741a6d4debdf26562c, type: 3}
+  - {fileID: -1182821291677670348, guid: 51c81e11cf1b83741a6d4debdf26562c, type: 3}
+  - {fileID: -6287787046888575383, guid: 51c81e11cf1b83741a6d4debdf26562c, type: 3}
+  - {fileID: 7364682651488144517, guid: 51c81e11cf1b83741a6d4debdf26562c, type: 3}
+  - {fileID: -2311659948842064771, guid: 51c81e11cf1b83741a6d4debdf26562c, type: 3}
+  - {fileID: 21300000, guid: 81b50f813047f264998afdf21c0f3716, type: 3}
+  - {fileID: 21300000, guid: bd79f3830e84cf543972a859dc0807e8, type: 3}
+  - {fileID: 21300000, guid: 6b1306a50fa3b6b46935e034c56ee285, type: 3}
+  - {fileID: 8613501316345424867, guid: be42e7f5d41550d4e8f787af114fc5d7, type: 3}
+  - {fileID: 213610178138624093, guid: be42e7f5d41550d4e8f787af114fc5d7, type: 3}
+  - {fileID: -4361467965553531647, guid: be42e7f5d41550d4e8f787af114fc5d7, type: 3}
+  - {fileID: -6810433342053447080, guid: be42e7f5d41550d4e8f787af114fc5d7, type: 3}
+  - {fileID: -170049266148834454, guid: be42e7f5d41550d4e8f787af114fc5d7, type: 3}
+  - {fileID: -913855073494445668, guid: be42e7f5d41550d4e8f787af114fc5d7, type: 3}
+  - {fileID: 21300000, guid: 9b4b10262b3633647896ced3dbbc81ea, type: 3}
+  - {fileID: 21300000, guid: c67049f69706e2f4fa6eec6d0bef4e9a, type: 3}
+  - {fileID: 21300000, guid: 2f89b438b1e0c704fa6074e419582459, type: 3}
+  - {fileID: 21300000, guid: f49c007801b3fe846803154bfa86dc81, type: 3}
+  - {fileID: 21300000, guid: 1fc46b89c87120042833678e1ba71b2c, type: 3}
+  - {fileID: 21300000, guid: 3649a01a49d94c947820dd1c88eb3975, type: 3}
+  - {fileID: 21300000, guid: 73c3f17bbee267148a2f224712eecba7, type: 3}
+  - {fileID: 21300000, guid: d5dceacb4ad9c71439838f9d84ddf1ae, type: 3}
+  - {fileID: 21300000, guid: f4a1ed8c5bcdb834889d9301f7ee1ab7, type: 3}
+  - {fileID: 21300000, guid: b73265accab188e409461260602e7e36, type: 3}
+  - {fileID: 21300000, guid: c25b55dc86feb23478cb131e86907032, type: 3}
+  - {fileID: 21300000, guid: 56ea801d18819dd4eb62926f1c7c4a15, type: 3}
+  - {fileID: 21300000, guid: 6d67965dbf1ebb54c97e4cc75d6be164, type: 3}
+  - {fileID: 21300000, guid: 33947b8d0cf29f940892df19b27eb168, type: 3}
+  - {fileID: 21300000, guid: 509cb56e68eb2404b902437d87eaab5a, type: 3}
+  - {fileID: 21300000, guid: 207f36aeb3ce5504c9891ecbbdd6299c, type: 3}
+  - {fileID: 21300000, guid: 0019ceaee48e29049be0857084884d2e, type: 3}
+  - {fileID: 21300000, guid: f87dafee2535f56458cc0621942506c5, type: 3}
+  - {fileID: 21300000, guid: 496d722f537597f419ec0f1115cfc3c1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Ground
+  - UI Loading
+  - Jump
+  - Die
+  - Run_3
+  - Run_2
+  - Run_1
+  - Run_0
+  - UI Pause_up
+  - Cloud A
+  - UI game dino
+  - Player dog_5
+  - Player dog_4
+  - Player dog_3
+  - Player dog_2
+  - Player dog_1
+  - Player dog_0
+  - UI Btn Down
+  - UI start 1
+  - UI Jump_up 1
+  - Cactus B
+  - Player dog Jump1
+  - UI Btn On
+  - Back A
+  - Cactus A
+  - Cloud B
+  - UI Over
+  - UI start up
+  - Back B
+  - UI Pause_down
+  - UI start down
+  - Cactus C
+  - UI Bottom 1
+  - monster1
+  - UI Jump_down 1
+  - UI WelCome
+  m_Tag: SpritePack
+  m_IsVariant: 0
